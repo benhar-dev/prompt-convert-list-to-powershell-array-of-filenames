@@ -1,4 +1,4 @@
-# prompt-convert-list-to-powershell-array-of-filenames
+# Chat GPT prompt to create an array in Powershell containing filenames based on a list.
 
 ## Prompt
 >Can you provide me with a PowerShell array called $newFileNames containing the updated file names with .mp4 extension and spaces for the following list
